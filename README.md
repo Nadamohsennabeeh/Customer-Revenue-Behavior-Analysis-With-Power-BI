@@ -1,5 +1,3 @@
-# Customer Revenue Behavior Analysis using Power BI
-
 
 This project analyzes customer purchasing behavior to understand how different buying patterns contribute to revenue. Instead of focusing only on total revenue, the dashboard compares purchase frequency, average order value, customer activity, and category performance to provide a deeper view of customer value.
 
