@@ -11,3 +11,4 @@ This project is built by : Power BI, Power Query, DAX, Data Modeling, and Data V
 
 
 Customer value is determined not only by how much revenue they generate, but also by how they generate it. Understanding purchasing behavior enables better customer segmentation and supports more informed business decisions.
+<img width="1366" height="768" alt="WhatsApp Image 2026-07-01 at 12 28 27 PM" src="https://github.com/user-attachments/assets/26f0a74c-9ce6-4c55-8b3b-6f28eb048b66" />
